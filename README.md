@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img width="150" height="150" src="resources/bikash.png">
+  <img width="150" height="150" src="resources/passport.jpg">
 </p>
 
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Bikash Patra </h1>
